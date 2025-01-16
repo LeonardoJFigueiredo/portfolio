@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, MATLAB, Machine Learning, Big Data
+#### Technical Skills: Python, SQL, Machine Learning, Big Data
 ## Projects
 ### Data
 
@@ -14,7 +14,7 @@
 ### Education
 - Ph.D., Computer Science \| Federal University of Minas Gerais (_Present_)								       		
 - M.S., Computer Science	\| Federal University of Viçosa (_March 2021_)	 			        		
-- B.S., Computer Science  | Federal University of Viçosa (_December 2015_)
+- B.S., Computer Science  \| Federal University of Viçosa (_December 2015_)
 
 ### Talks & Lectures
 - 
