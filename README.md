@@ -12,8 +12,8 @@
 ***
 ## Profile 
 ### Education
-- Ph.D., Computer Science | Federal University of Minas Gerais (_Present_)								       		
-- M.S., Computer Science	| Federal University of Viçosa (_March 2021_)	 			        		
+- Ph.D., Computer Science \| Federal University of Minas Gerais (_Present_)								       		
+- M.S., Computer Science	\| Federal University of Viçosa (_March 2021_)	 			        		
 - B.S., Computer Science  | Federal University of Viçosa (_December 2015_)
 
 ### Talks & Lectures
