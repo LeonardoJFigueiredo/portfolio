@@ -7,18 +7,19 @@
 
 
 
+<br/><br/><br/><br/><br/><br/>
 
-
-
-## Education
+***
+## Profile 
+### Education
 - Ph.D., Computer Science | Federal University of Minas Gerais (_Present_)								       		
 - M.S., Computer Science	| Federal University of Viçosa (_March 2021_)	 			        		
 - B.S., Computer Science  | Federal University of Viçosa (_December 2015_)
 
-## Talks & Lectures
+### Talks & Lectures
 - 
 
-## Publications
+### Publications
 1. Santos, Germano, Guilherme C. Melos, Leonardo J. A. S. Figueiredo, Fabrício A. Silva, Thais R. M. B. Silva, and Antonio A. F. Loureiro. Hexagonal P-Median: Um modelo para alocação de pontos de recarga para caminhões elétricos. Anais do VIII Workshop de Computação Urbana, Niterói/RJ, 2024. SBC, 2024, pp.169-182.
 2. Figueiredo, Leonardo JA S., et al. Extracting Mobile User Profile using Easy-to-obtain and Less Invasive Data. Proceedings of the Int'l ACM Symposium on Performance Evaluation of Wireless Ad Hoc, Sensor, & Ubiquitous Networks. 2023.
 3. dos Santos, G. B., Figueiredo, L. J., Silva, F. A., & Loureiro, A. A. (2023, September). MoreData: Enriquecimento Semântico para Grandes Volumes de Dados Geolocalizados". In Anais Estendidos do XXXVIII Simpósio Brasileiro de Bancos de Dados (pp. 126-131). SBC.
