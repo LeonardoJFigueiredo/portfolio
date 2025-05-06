@@ -16,7 +16,7 @@ Ph.D. Candidate in Computer Science with 4+ years of experience in applied data 
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| **[Business Dashboards](https://github.com/LeonardoJFigueiredo/powerbi-dashboards)** | KPI dashboards for sales and operations using real datasets. Emphasis on data storytelling and business value. | `Power BI`, `DAX`, `SQL` |
+| **[Dashboards](https://github.com/LeonardoJFigueiredo/powerbi-dashboards)** | Dynamic dashboards using Power BI to explore datasets across domains, applying DAX, data modeling, and interactive visual analytics. | `Power BI`, `DAX`, `SQL` |
 | **[Yellow Taxi Demand – NYC](https://github.com/LeonardoJFigueiredo/nyc-taxi-demand-analysis)** | Analysis of geospatial taxi demand in NYC using semantic location classification. | `Python`, `Altair`, `Geopandas`, `OpenStreetMap` |
 
 
